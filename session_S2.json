@@ -1,0 +1,12 @@
+{
+  "student_id": "S2",
+  "session_start_iso": "2026-09-22T10:30:00",
+  "session_duration_minutes": 12.0,
+  "message_count": 9,
+  "confusion_count": 4,
+  "mode_switch_count": 4,
+  "root_cause_trigger_count": 3,
+  "final_understanding_level": 2,
+  "final_topic": "DS: Full Recursion",
+  "chat_history": []
+}
